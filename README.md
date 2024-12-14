@@ -26,7 +26,7 @@
 | [gptcat.net](https://gptcat.net)         | GPT-4、GPT-o1     | 10 次/天     | 支持 GPT-o1 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
 | [ai-panda.xyz](https://ai-panda.xyz)     | GPT-4、GPT-o1     | 10 次/天     | 提供 API 调用，开发者友好       | ⭐⭐⭐⭐⭐              |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5           | 不免费       | 界面友好，新手适合           | ⭐⭐⭐⭐               |
-| [gpthomechat.com](https://gpthomechat.com/) | 博客资源平台       | 无限次       | 分享 ChatGPT 使用技巧       | ⭐⭐⭐⭐⭐              |
+
 
 ### **推荐站点说明**
 1. **GPT-4 免费体验**：选择 [snakegpt.work](https://snakegpt.work)，支持 AI 绘图和 GPT-4。
