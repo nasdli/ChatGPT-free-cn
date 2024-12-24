@@ -1,7 +1,7 @@
 # ChatGPT中文版镜像网站整理合集【12月持续更新】
 
 > 想快速使用 **ChatGPT中文版**？无需翻墙即可免费体验 GPT-4 和 GPT-o1 模型！本篇文章持续更新国内最新的 ChatGPT 镜像网站，满足您学习、工作与创作的多种需求。  
-> **更新时间：2024/12/20**
+> **更新时间：2024/12/24**
 
 ---
 
@@ -22,9 +22,9 @@
 
 | **站点名称**         | **支持模型**       | **免费额度** | **独特功能**               | **速度与稳定性**     |
 |----------------------|-------------------|--------------|---------------------------|---------------------|
-| [snakegpt.work](https://snakegpt.work)    | GPT-4、Claude3    | 5 次/天      | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐              |
-| [gptcat.net](https://gptcat.net)         | GPT-4、GPT-o1     | 10 次/天     | 支持 GPT-o1 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
-| [ai-panda.xyz](https://ai-panda.xyz)     | GPT-4、GPT-o1     | 10 次/天     | 提供 API 调用，开发者友好       | ⭐⭐⭐⭐⭐              |
+| [snakegpt.work](https://snakegpt.work)    | GPT-4、Claude3    | 5 次     | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐              |
+| [gptcat.net](https://gptcat.net)         | GPT-4、GPT-o1     | 10 次    | 支持 GPT-o1 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
+| [ai-panda.xyz](https://ai-panda.xyz)     | GPT-4、GPT-o1     | 10 次     | 提供 API 调用，开发者友好       | ⭐⭐⭐⭐⭐              |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5           | 不免费       | 界面友好，新手适合           | ⭐⭐⭐⭐               |
 
 
